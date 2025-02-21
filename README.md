@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm Rabab Mohamed Nafe</h3>
-<p align="center">Data scientist specializing in analytics and predictive modeling. Skilled in uncovering actionable insights through advanced data analysis, statistical modeling, and machine learning to drive business growth.
+<h2 align="center">Hi 👋, I'm Rabab Mohamed Nafe</h2>
+<p align="left">Data scientist specializing in analytics and predictive modeling. Skilled in uncovering actionable insights through advanced data analysis, statistical modeling, and machine learning to drive business growth.
 Experienced in designing and optimizing incremental ETL pipelines using Python and cloud technologies in Azure and AWS. Proficient in building scalable, automated workflows with tools like Apache Airflow, dbt, and Spark to streamline data integration and transformation while ensuring data quality and performance.
 Strong background in data visualization and business intelligence using Power BI and Tableau. Expertise in creating interactive dashboards, performing exploratory data analysis, and translating complex data into meaningful insights. Proficient in SQL,  python, and data storytelling for data-driven decision-making.
 Technical skill set includes Python, SQL, machine learning, cloud computing (Azure, AWS), and big data technologies. Passionate about leveraging data-driven strategies to optimize processes and enhance decision-making.</p>
