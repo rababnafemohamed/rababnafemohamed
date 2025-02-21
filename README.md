@@ -1,5 +1,11 @@
 <h3 align="center">Hi 👋, I'm Rabab Mohamed Nafe</h3>
-<p align="center">I am a data scientist with a strong foundation in analytics and predictive modeling. My expertise lies in uncovering actionable insights through advanced data analysis techniques. With a deep understanding of predictive analytics, I excel at building models that anticipate trends, optimize decision-making, and drive business growth. I have solid experience and a passion for designing and optimizing incremental ETL pipelines using Python and cloud technologies in Azure and AWS. I specialize in developing scalable, efficient, and automated ETL workflows that ensure seamless data integration, transformation, and loading. My expertise includes working with modern data engineering tools such as Apache Airflow, dbt, and Spark to streamline data processing. I am also skilled in optimizing ETL performance, ensuring data quality, and implementing robust monitoring solutions to maintain reliable data pipelines.</p>
+<p align="center">Data scientist specializing in analytics and predictive modeling. Skilled in uncovering actionable insights through advanced data analysis, statistical modeling, and machine learning to drive business growth.
+
+Experienced in designing and optimizing incremental ETL pipelines using Python and cloud technologies in Azure and AWS. Proficient in building scalable, automated workflows with tools like Apache Airflow, dbt, and Spark to streamline data integration and transformation while ensuring data quality and performance.
+
+Strong background in data visualization and business intelligence using Power BI and Tableau. Expertise in creating interactive dashboards, performing exploratory data analysis, and translating complex data into meaningful insights. Proficient in SQL,  python, and data storytelling for data-driven decision-making.
+
+Technical skill set includes Python, SQL, machine learning, cloud computing (Azure, AWS), and big data technologies. Passionate about leveraging data-driven strategies to optimize processes and enhance decision-making.</p>
 
 - 📫 How to reach me **rababrsd@gmail.com**
 
